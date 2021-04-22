@@ -22,7 +22,7 @@
 		<hibernate.version>4.2.1.Final</hibernate.version>
 		<spring-jdbc.version>4.0.6.RELEASE</spring-jdbc.version>
 		<!-- MyBatis -->
-		<MyBatis.version>3.3.0</MyBatis.version>
+		<MyBatis.version>3.5.6</MyBatis.version>
 		<!-- MyBatis Spring -->
 		<MyBatis.Spring.version>1.2.2</MyBatis.Spring.version>
 		<!-- Connector-J -->
